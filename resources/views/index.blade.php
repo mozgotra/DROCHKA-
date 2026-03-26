@@ -1,7 +1,7 @@
 <x-main-layout>
    
     <x-slot:title>
-        Пример
+        BBQ
     </x-slot>
     <p>Контент страницы</p>
     
